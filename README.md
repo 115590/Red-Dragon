@@ -4,9 +4,9 @@
 <img src="https://i.ibb.co/CwffZ61/20220605-104552.jpg" alt="nz" width="350"/>
 </p>
 
-## 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 -𝗕𝗢𝗧࿐   Version 12.0
+## ꪶ͢٭𝛢𝛫𝑅𝛢𝛭 𝛫卄𝛥𝛮٭ꪶ͢࿐   Version 12.0
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+★᭄ꦿ᭄ꦿ A̳̿͟͞K̳̿͟͞R̳̿͟͞A̳̿͟͞M̳̿͟͞ K̳̿͟͞H̳̿͟͞A̳̿͟͞N̳̿͟͞ ღ★᭄ꦿ᭄ꦿ.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ꪶ͢٭𝛢𝛫𝑅𝛢𝛭 𝛫卄𝛥𝛮٭ꪶ͢;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
 LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
