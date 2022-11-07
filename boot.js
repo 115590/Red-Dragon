@@ -11,11 +11,11 @@
 ║
 ║
 ║
-╠🆁🅴🅳╬🅳🆁🅰🅶🅾🅽╣ 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 [`𝗞.𝗣𝗿𝗮𝗯𝗵𝗮𝘀𝗵𝗮´]
+╠AKRAM KHAN╣ 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 [`.AKRAM KHAN´]
 ║
 ║
 ║
-╠═𝕆𝔹𝔽𝕌𝕊ℂ𝔸𝕋𝔼𝔻═𝔹𝕐═╣ 😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯
+╠═𝕆𝔹𝔽𝕌𝕊ℂ𝔸𝕋𝔼𝔻═𝔹𝕐═╣ 😎.AKRAM KHAN❯❯
 ║
 ╠═══════(github.com/prabhasha2006)═══════╣
 ║
@@ -404,7 +404,7 @@ KUMUTHU.sendMessage(anu.id, buttonMessage)
         let message = await prepareWAMessageMedia({ image: img }, { upload: KUMUTHU.waUploadToServer })
         var template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
         templateMessage: {
-        hydratedTemplate: {
+        hydratedTemplate: 
         imageMessage: message.imageMessage,
                "hydratedContentText": text,
                "hydratedFooterText": footer,
@@ -495,7 +495,7 @@ KUMUTHU.sendMessage(anu.id, buttonMessage)
      * @param {*} options 
      * @returns 
      */
-    KUMUTHU.sendTextWithMentions = async (jid, text, quoted, options = {}) => KUMUTHU.sendMessage(jid, { text: text, contextInfo: { mentionedJid: [...text.matchAll(/@(\d{0,16})/g)].map(v => v[1] + '@s.whatsapp.net') }, ...options }, { quoted })
+    KUMUTHU.sendTextWithMentions sync (jid, text, quoted, options = {}) => KUMUTHU.sendMessage(jid, { text: text, contextInfo: { mentionedJid: [...text.matchAll(/@(\d{0,16})/g)].map(v => v[1] + '@s.whatsapp.net') }, ...options }, { quoted })
 
     /**
      * 
