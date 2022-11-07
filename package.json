@@ -1,5 +1,5 @@
 {
-  "name": "Red-Dragon-MD",
+  "name": "AKRAM KHAN",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "boot.js",
@@ -8,7 +8,7 @@
     "start": "node boot.js"
   },
   "keywords": [
-    "termux",
+    "termux",7
     "whatsapp",
     "red-dragon",
     "base",
